@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[1]:
+# Simple trainer for word-2-vec models
 
 
 from gensim.models import Word2Vec
